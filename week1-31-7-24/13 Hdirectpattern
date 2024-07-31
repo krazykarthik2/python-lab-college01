@@ -1,0 +1,8 @@
+# python program to print H pattern
+print("*      *")
+print("*      *")
+print("*      *")
+print("********")
+print("*      *")
+print("*      *")
+print("*      *")
